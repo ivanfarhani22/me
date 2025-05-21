@@ -1,22 +1,22 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm Ivan Farhani Ahmad 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=username-anda&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/username-anda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://portfolio-anda.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ivanfarhani22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)]([https://portfolio-anda.com](https://ivanfarhani22.github.io/web/portofolio.html))
 
 ## 👨‍💻 About Me
 
-🎓 [Latar belakang pendidikan Anda]
+🎓 Mahasiswa aktif semester 4 D3 Teknik Informatika di Politeknik Elektronika Negeri Surabaya. Memiliki pengalaman dalam pengembangan website serta aktif dalam kegiatan organisasi. Pernah mempelajari berbagai bahasa pemrograman seperti HTML, CSS, JavaScript, PHP, Java, C/C++, Python, dan Dart. Dan pernah mempelajari beberapa framework seperti React JS, Node JS, Express JS, Laravel, dan Flutter. Memiliki motivasi bahwa saya ingin terus belajar secara mandiri dan juga kelompok atau tim dan berharap dapat menciptakan solusi digital yang bermanfaat bagi banyak orang.
 
-💼 [Pekerjaan/posisi saat ini]
+💼 Junior Fullstack Developer
 
-🌱 Saat ini saya sedang belajar [teknologi/skill yang sedang Anda pelajari]
+🏫 Saat ini saya sedang belajar di Politeknik Elektronika Negeri Surabaya
 
-🔭 Saya sedang mengerjakan [proyek yang sedang Anda kerjakan]
+🔭 Saya sedang mengerjakan banyak project
 
-💬 Tanyakan pada saya tentang [bidang keahlian Anda]
+💬 Tanyakan pada saya tentang Teknik Informatika
 
-⚡ Fun fact: [fakta menarik tentang Anda]
+⚡ Fun fact: Jago menggunakan AI
 
 ## 🛠️ Skills
 
